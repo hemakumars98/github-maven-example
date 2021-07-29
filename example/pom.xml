@@ -7,7 +7,7 @@
 	<version>0.1-SNAPSHOT</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
-	<url>https://github.com/kevinsawicki/github-maven-example</url>
+	<url>https://github.com/kevinsawicki/github-maven-example</https://github.com/hemakumars98/github-maven-example/edit/master/example/pom.xml>
 
 	<issueManagement>
 		<url>https://github.com/kevinsawicki/github-maven-example/issues</url>
